@@ -1,0 +1,2 @@
+# Script-Duplictor
+lang : py
